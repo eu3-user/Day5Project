@@ -4,7 +4,7 @@ public class LocalMergeConflict {
 
 
         System.out.println("added some awesome line in local master branch");
-
+        // adding more stuff here that hello2 does not know about
 
     }
 

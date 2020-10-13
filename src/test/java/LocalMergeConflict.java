@@ -4,7 +4,7 @@ public class LocalMergeConflict {
 
 
         System.out.println("added some awesome line in local master branch");
-
+        // adding second way of saying hello
 
     }
 

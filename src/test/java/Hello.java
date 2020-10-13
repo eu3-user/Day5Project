@@ -7,6 +7,10 @@ public class Hello {
         // co-worker pushed some new changes here that I do not yet know about
 
         //this line added By Ali KONYA
+
+        //some more code addded
+
+        System.out.println("But this is perfect code, why do you need more review");
     }
 
 }
